@@ -1,3 +1,5 @@
-# image_classification
+# Face Gender Classification
 
-## This repo contains face images of men and women for gender (binary) classification. There are 33147 images for the the training set and 3300 images for the test set.
+## This repo contains all necessary python scripts and instructions to run the models for face Gender Classification.
+
+
